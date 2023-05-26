@@ -1,0 +1,14 @@
+.juego{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    border: 1px solid black;
+    border-radius: 20%;
+}
+
+.lolo{
+    display: flex;
+    justify-content: center;
+}
